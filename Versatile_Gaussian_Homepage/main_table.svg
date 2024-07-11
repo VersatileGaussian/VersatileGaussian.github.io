@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460.97 136.63">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 2.03em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #231815;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7, .cls-9 {
+        font-size: 9.96px;
+      }
+
+      .cls-2 {
+        font-family: NimbusRomNo9L-Medi, 'NimbusRomNo9L Medi';
+      }
+
+      .cls-3 {
+        font-family: NimbusRomNo9L-Regu, 'NimbusRomNo9L Regu';
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4, .cls-9 {
+        font-family: CMR10, CMR10;
+      }
+
+      .cls-5, .cls-10 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        font-family: CMMI7, CMMI7;
+      }
+
+      .cls-6, .cls-8 {
+        font-size: 6.97px;
+      }
+
+      .cls-11 {
+        font-family: CMSY10, CMSY10;
+      }
+
+      .cls-12 {
+        stroke-width: .8px;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        letter-spacing: 1.62em;
+      }
+
+      .cls-13 {
+        stroke-width: .5px;
+      }
+
+      .cls-14 {
+        stroke-width: .4px;
+      }
+
+      .cls-8 {
+        font-family: CMR7, CMR7;
+      }
+    </style>
+  </defs>
+  <path class="cls-12" d="m0,.4h460.97M0,3.19h460.97"/>
+  <text class="cls-3" transform="translate(20.19 20.72)"><tspan x="0" y="0">Method</tspan></text>
+  <text class="cls-3" transform="translate(86.66 20.72)"><tspan x="0" y="0">DataSet</tspan></text>
+  <text class="cls-3" transform="translate(133.88 20.72)"><tspan x="0" y="0">FPS</tspan></text>
+  <text class="cls-3" transform="translate(162.85 14.74)"><tspan x="0" y="0">Ov</tspan></text>
+  <text class="cls-3" transform="translate(174.89 14.74)"><tspan x="0" y="0">erall</tspan></text>
+  <text class="cls-3" transform="translate(195.07 14.74)"><tspan x="0" y="0">Drop</tspan></text>
+  <text class="cls-3" transform="translate(232.21 14.74)"><tspan x="0" y="0">RGB</tspan></text>
+  <text class="cls-3" transform="translate(276.69 14.74)"><tspan x="0" y="0">KP</tspan></text>
+  <text class="cls-3" transform="translate(316.04 14.74)"><tspan x="0" y="0">SH</tspan></text>
+  <text class="cls-3" transform="translate(355.12 14.74)"><tspan x="0" y="0">ED</tspan></text>
+  <text class="cls-3" transform="translate(394.75 14.74)"><tspan x="0" y="0">SN</tspan></text>
+  <text class="cls-3" transform="translate(435.07 14.74)"><tspan x="0" y="0">SL</tspan></text>
+  <text class="cls-9" transform="translate(173.25 26.7)"><tspan x="0" y="0">∆</tspan></text>
+  <text class="cls-6" transform="translate(181.54 28.19)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-4" transform="translate(189.11 26.7)"><tspan x="0" y="0">(%</tspan></text>
+  <text class="cls-9" transform="translate(201.29 26.7)"><tspan x="0" y="0">)</tspan></text>
+  <text class="cls-3" transform="translate(227.5 26.7)"><tspan x="0" y="0">PSNR</tspan></text>
+  <text class="cls-7" transform="translate(252.42 26.7)"><tspan class="cls-10" x="0" y="0">↑</tspan><tspan class="cls-11" x="26.07" y="0">L</tspan></text>
+  <text class="cls-8" transform="translate(280.38 28.19)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-1" transform="translate(287.62 26.7)"><tspan class="cls-10" x="0" y="0">↓</tspan><tspan class="cls-11" x="30.23" y="0">L</tspan></text>
+  <text class="cls-8" transform="translate(319.74 28.19)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-1" transform="translate(326.97 26.7)"><tspan class="cls-10" x="0" y="0">↓</tspan><tspan class="cls-11" x="30.23" y="0">L</tspan></text>
+  <text class="cls-8" transform="translate(359.09 28.19)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-1" transform="translate(366.32 26.7)"><tspan class="cls-10" x="0" y="0">↓</tspan><tspan class="cls-11" x="30.23" y="0">L</tspan></text>
+  <text class="cls-8" transform="translate(398.44 28.19)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-5" transform="translate(405.68 26.7)"><tspan x="0" y="0">↓</tspan></text>
+  <text class="cls-3" transform="translate(426.77 26.7)"><tspan x="0" y="0">mIoU</tspan></text>
+  <text class="cls-5" transform="translate(450.01 26.7)"><tspan x="0" y="0">↑</tspan></text>
+  <line class="cls-13" y1="32.25" x2="460.97" y2="32.25"/>
+  <text class="cls-3" transform="translate(5.25 43.66)"><tspan x="0" y="0">SemanticNeRF</tspan></text>
+  <text class="cls-3" transform="translate(87.21 61.59)"><tspan x="0" y="0">Replic</tspan></text>
+  <text class="cls-3" transform="translate(113.21 61.59)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-3" transform="translate(133.46 43.66)"><tspan x="0" y="0">0.05</tspan></text>
+  <text class="cls-3" transform="translate(176.33 43.66)"><tspan x="0" y="0">-11.28</tspan></text>
+  <text class="cls-3" transform="translate(231.24 43.66)"><tspan x="0" y="0">27.08</tspan></text>
+  <text class="cls-3" transform="translate(269.35 43.66)"><tspan x="0" y="0">0.0055</tspan></text>
+  <text class="cls-3" transform="translate(308.71 43.66)"><tspan x="0" y="0">0.0418</tspan></text>
+  <text class="cls-3" transform="translate(348.07 43.66)"><tspan x="0" y="0">0.0212</tspan></text>
+  <text class="cls-3" transform="translate(387.41 43.66)"><tspan x="0" y="0">0.0221</tspan></text>
+  <text class="cls-3" transform="translate(427.18 43.66)"><tspan x="0" y="0">0.9417</tspan></text>
+  <text class="cls-3" transform="translate(16.59 55.61)"><tspan x="0" y="0">SS-NeRF</tspan></text>
+  <text class="cls-3" transform="translate(133.46 55.61)"><tspan x="0" y="0">0.08</tspan></text>
+  <text class="cls-3" transform="translate(178.82 55.61)"><tspan x="0" y="0">-8.44</tspan></text>
+  <text class="cls-3" transform="translate(231.25 55.61)"><tspan x="0" y="0">27.22</tspan></text>
+  <text class="cls-3" transform="translate(269.35 55.61)"><tspan x="0" y="0">0.0053</tspan></text>
+  <text class="cls-3" transform="translate(308.71 55.61)"><tspan x="0" y="0">0.0405</tspan></text>
+  <text class="cls-3" transform="translate(348.06 55.61)"><tspan x="0" y="0">0.0196</tspan></text>
+  <text class="cls-3" transform="translate(387.41 55.61)"><tspan x="0" y="0">0.0224</tspan></text>
+  <text class="cls-3" transform="translate(427.18 55.61)"><tspan x="0" y="0">0.9483</tspan></text>
+  <text class="cls-3" transform="translate(10.78 67.56)"><tspan x="0" y="0">MuvieNeRF</tspan></text>
+  <text class="cls-3" transform="translate(133.46 67.56)"><tspan x="0" y="0">0.01</tspan></text>
+  <text class="cls-3" transform="translate(178.82 67.56)"><tspan x="0" y="0">-1.48</tspan></text>
+  <text class="cls-3" transform="translate(231.25 67.56)"><tspan x="0" y="0">28.55</tspan></text>
+  <text class="cls-2" transform="translate(269.35 67.56)"><tspan x="0" y="0">0.0051</tspan></text>
+  <text class="cls-3" transform="translate(308.71 67.56)"><tspan x="0" y="0">0.0408</tspan></text>
+  <text class="cls-3" transform="translate(348.07 67.56)"><tspan x="0" y="0">0.0162</tspan></text>
+  <text class="cls-3" transform="translate(387.41 67.56)"><tspan x="0" y="0">0.0201</tspan></text>
+  <text class="cls-3" transform="translate(427.18 67.56)"><tspan x="0" y="0">0.9563</tspan></text>
+  <text class="cls-3" transform="translate(0 79.52)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-3" transform="translate(6.08 79.52)"><tspan x="0" y="0">ersatileGaussian</tspan></text>
+  <text class="cls-3" transform="translate(133.46 79.52)"><tspan x="0" y="0">34.6</tspan></text>
+  <text class="cls-3" transform="translate(180.49 79.52)"><tspan x="0" y="0">0.00</tspan></text>
+  <text class="cls-2" transform="translate(231.25 79.52)"><tspan x="0" y="0">31.09</tspan></text>
+  <text class="cls-3" transform="translate(269.35 79.52)"><tspan x="0" y="0">0.0058</tspan></text>
+  <text class="cls-2" transform="translate(308.71 79.52)"><tspan x="0" y="0">0.0389</tspan></text>
+  <text class="cls-2" transform="translate(348.07 79.52)"><tspan x="0" y="0">0.0151</tspan></text>
+  <text class="cls-2" transform="translate(387.41 79.52)"><tspan x="0" y="0">0.0200</tspan></text>
+  <text class="cls-2" transform="translate(427.18 79.52)"><tspan x="0" y="0">0.9573</tspan></text>
+  <line class="cls-14" y1="83.31" x2="460.97" y2="83.31"/>
+  <text class="cls-3" transform="translate(5.25 91.88)"><tspan x="0" y="0">SemanticNeRF</tspan></text>
+  <text class="cls-3" transform="translate(83.33 109.81)"><tspan x="0" y="0">SceneNet</tspan></text>
+  <text class="cls-3" transform="translate(133.46 91.88)"><tspan x="0" y="0">0.05</tspan></text>
+  <text class="cls-3" transform="translate(176.33 91.88)"><tspan x="0" y="0">-23.57</tspan></text>
+  <text class="cls-3" transform="translate(231.24 91.88)"><tspan x="0" y="0">28.85</tspan></text>
+  <text class="cls-3" transform="translate(269.35 91.88)"><tspan x="0" y="0">0.0051</tspan></text>
+  <text class="cls-3" transform="translate(320.75 91.88)"><tspan x="0" y="0">-</tspan></text>
+  <text class="cls-3" transform="translate(348.07 91.88)"><tspan x="0" y="0">0.0198</tspan></text>
+  <text class="cls-3" transform="translate(387.41 91.88)"><tspan x="0" y="0">0.0186</tspan></text>
+  <text class="cls-3" transform="translate(427.18 91.88)"><tspan x="0" y="0">0.9417</tspan></text>
+  <text class="cls-3" transform="translate(16.59 103.84)"><tspan x="0" y="0">SS-NeRF</tspan></text>
+  <text class="cls-3" transform="translate(133.46 103.84)"><tspan x="0" y="0">0.08</tspan></text>
+  <text class="cls-3" transform="translate(176.33 103.84)"><tspan x="0" y="0">-22.79</tspan></text>
+  <text class="cls-3" transform="translate(231.25 103.84)"><tspan x="0" y="0">29.18</tspan></text>
+  <text class="cls-3" transform="translate(269.35 103.84)"><tspan x="0" y="0">0.0052</tspan></text>
+  <text class="cls-3" transform="translate(320.75 103.84)"><tspan x="0" y="0">-</tspan></text>
+  <text class="cls-3" transform="translate(348.06 103.84)"><tspan x="0" y="0">0.0197</tspan></text>
+  <text class="cls-3" transform="translate(387.41 103.84)"><tspan x="0" y="0">0.0182</tspan></text>
+  <text class="cls-3" transform="translate(427.18 103.84)"><tspan x="0" y="0">0.9510</tspan></text>
+  <text class="cls-3" transform="translate(10.78 115.79)"><tspan x="0" y="0">MuvieNeRF</tspan></text>
+  <text class="cls-3" transform="translate(133.46 115.79)"><tspan x="0" y="0">0.01</tspan></text>
+  <text class="cls-3" transform="translate(176.33 115.79)"><tspan x="0" y="0">-18.99</tspan></text>
+  <text class="cls-3" transform="translate(231.25 115.79)"><tspan x="0" y="0">29.56</tspan></text>
+  <text class="cls-3" transform="translate(269.35 115.79)"><tspan x="0" y="0">0.0050</tspan></text>
+  <text class="cls-3" transform="translate(320.75 115.79)"><tspan x="0" y="0">-</tspan></text>
+  <text class="cls-3" transform="translate(348.06 115.79)"><tspan x="0" y="0">0.0189</tspan></text>
+  <text class="cls-3" transform="translate(387.41 115.79)"><tspan x="0" y="0">0.0173</tspan></text>
+  <text class="cls-2" transform="translate(427.18 115.79)"><tspan x="0" y="0">0.9556</tspan></text>
+  <text class="cls-3" transform="translate(0 127.74)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-3" transform="translate(6.08 127.74)"><tspan x="0" y="0">ersatileGaussian</tspan></text>
+  <text class="cls-3" transform="translate(133.46 127.74)"><tspan x="0" y="0">35.1</tspan></text>
+  <text class="cls-3" transform="translate(180.49 127.74)"><tspan x="0" y="0">0.00</tspan></text>
+  <text class="cls-2" transform="translate(231.25 127.74)"><tspan x="0" y="0">33.48</tspan></text>
+  <text class="cls-3" transform="translate(269.35 127.74)"><tspan x="0" y="0">0.0050</tspan></text>
+  <text class="cls-3" transform="translate(320.75 127.74)"><tspan x="0" y="0">-</tspan></text>
+  <text class="cls-2" transform="translate(348.07 127.74)"><tspan x="0" y="0">0.0129</tspan></text>
+  <text class="cls-2" transform="translate(387.41 127.74)"><tspan x="0" y="0">0.0126</tspan></text>
+  <text class="cls-3" transform="translate(427.18 127.74)"><tspan x="0" y="0">0.9506</tspan></text>
+  <path class="cls-12" d="m0,133.44h460.97M0,136.23h460.97"/>
+</svg>
